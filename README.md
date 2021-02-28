@@ -1,8 +1,3 @@
-Team Members:
--------------
- 	# Omur Faruque (Reg. No:2015331007)
-	# Sneha Devi (Reg. No: 2016331105)
-
 Brief of our app:
 -------------------------------
 KiKat is an android chat application implementing p2p socketing which enables exchanging messages and text files between people connected through this app.
@@ -30,9 +25,3 @@ If they want to send messages there's a edit text box to type messages and a sen
 Again, in the bottom there's a file icon button to send text files. Clicking that takes the users to their files folder and when they select any text file, the file is sent to the other user and gets saved there.
 
 When the dots on menubar is clicked there are two more options: "Save Chat" and "Change Background". By clicking on "Save Chat" , the chat gets saved as text files in that device. Again, clicking on "change background" changes background for both users.
-
-Work Contribution:
-------------------
-Most of this project had been worked on together by both of us, which includes all of the base features. Contribution on extra features are the followings:
-	#Sneha Devi:	Splash Screen, App Icon, Bubble Wrapping
-	#Omur Faruque:	Chat Layout Design, Toolbar & Dot Menu
