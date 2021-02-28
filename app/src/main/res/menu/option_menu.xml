@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Connect"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_add_black_24dp"
+        android:id="@+id/ConnectFriend"/>
+
+
+    <item
+        android:title="@string/main_menu"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_more_vert_black_24dp">
+
+        <menu>
+            <item
+                android:title="Change Background"
+                app:showAsAction="never"
+                android:id="@+id/cngColor"/>
+
+            <item
+                android:title="Save Chat"
+                app:showAsAction="never"
+                android:id="@+id/saveChat"/>
+
+        </menu>
+    </item>
+
+</menu>
